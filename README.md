@@ -1,7 +1,7 @@
-**Project Title**
+<span style="font-size: 24px; font-weight: bold;">Project Title</span>
 intractable pain(Pain Event & Medication Tracking App)
 
-**Objective**
+<span style="font-size: 24px; font-weight: bold;">Objective</span>
 To provide patients with a convenient and simple way to log pain events and record medications taken, improving pain management and quality of life. This app is designed for both Android and iOS platforms to maximize accessibility.
 
 **Pain Tracking**
@@ -11,7 +11,7 @@ To provide patients with a convenient and simple way to log pain events and reco
 **Personalized Suggestions** 
 analyze pain patterns and medication usage, the app may suggest optimal dosages or frequencies to improve pain management.(Using AI would be great but optional)
 
-**Technology Stack**
+<span style="font-size: 24px; font-weight: bold;">Technology Stack</span>
 
 **Frontend**
 Cross-platform frameworks Flutter to ensure compatibility with both Android and iOS. 
