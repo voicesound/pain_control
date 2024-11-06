@@ -17,7 +17,7 @@ To provide patients with a convenient and simple way to log pain events and reco
 - Cross-platform frameworks **Flutter** to ensure compatibility with both Android and iOS. 
 
 **Backend** : **Python**
-- **Python**-based REST API built using Flask or Django, providing data storage and logic processing capabilities.
+- **Python**-based REST API built using Flask, providing data storage and logic processing capabilities.
 
 **Database** : **SQLite**
 - Firebase for real-time data sync across devices, or alternatively, a locally stored database like **SQLite**.
